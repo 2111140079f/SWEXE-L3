@@ -14,7 +14,7 @@
  *= require_self
  */
 
-h1 {background-color: #99CCFF;}
+h1 {background-color: #e6e6fa;}
 
 #header {
     padding:30px;
@@ -59,11 +59,11 @@ nav li a{
 nav li a:hover{
     /*background-color: #3399FF;*/
     /*color: white;*/
-    border-bottom: 2px solid #3399FF;
+    border-bottom: 2px solid #000080;
 }
 
 p1:hover{
-    background-color: #3399FF;
+    background-color: #000080;
     color: white;
 }
 
